@@ -1,0 +1,12 @@
+TW@DESKTOP-MNGFG7A MINGW64 ~/Desktop/Web Dev/Kodilla/3. Git/learning-git-2 (master)
+$ npm exec html-validate index.html
+
+C:\Users\TW\Desktop\Web Dev\Kodilla\3. Git\learning-git-2\index.html
+  26:36  error  Trailing whitespace  no-trailing-whitespace
+  43:36  error  Trailing whitespace  no-trailing-whitespace
+
+✖ 2 problems (2 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+
